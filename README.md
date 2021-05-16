@@ -10,9 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=thiagoloureiro" alt="thiagoloureiro" />
 </p>
 
-- 🔭 I’m currently working on [Personal Projects](https://www.youtube.com/channel/UCHPLB74WSMMXs-tdC8G6m2A)
+- 🔭 I’m currently working on some private projects :)
 
-- 🌱 I’m currently learning **Flutter, Dart, Management State**
+- 🌱 I’m currently learning **Flutter, Dart and much more**
 
 - 💬 Ask me about **Dotnet stuff :)**
 
