@@ -27,11 +27,4 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoloureiro&hide=css,html&theme=tokyonight">
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thiagoloureiro/thiagoloureiro/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
