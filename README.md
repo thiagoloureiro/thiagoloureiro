@@ -10,8 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=thiagoloureiro" alt="thiagoloureiro" />
 </p>
 
-- 🔭 I’m currently working on some private projects :)
-
 - 🌱 I’m currently working on **AlertHawk, check out in my repositories!**
 
 - 💬 Ask me about **Dotnet stuff :)**
