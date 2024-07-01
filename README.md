@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **thiagoguaru@me.com**
 
-## My github Stats!!
+## My GitHub Stats!!
 
 <br>
 
