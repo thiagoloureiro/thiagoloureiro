@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thiago Loureiro</h1>
+<h1 align="center">Hi 👋, I'm Thiago</h1>
 <h3 align="center">A Software Architect passioned about lots of technologies :)</h3>
 
 <p align="center"> 
