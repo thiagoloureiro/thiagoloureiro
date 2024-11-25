@@ -14,8 +14,6 @@
 
 - 💬 Ask me about **Dotnet stuff :)**
 
-- 📫 How to reach me **thiagoguaru@me.com**
-
 ## My GitHub Stats!!
 
 <br>
