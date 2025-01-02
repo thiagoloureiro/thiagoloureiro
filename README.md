@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently working on **AlertHawk, check out in my repositories!**
 
-- 💬 Ask me about **Dotnet and architecture stuff :)**
+- 💬 Ask me about **.NET and Architecture stuff :)**
 
 ## My GitHub Stats!!
 
